@@ -11,7 +11,7 @@ export const site = {
 
   cta: {
     primary: "View Menu",
-    secondary: "Reserve",
+    secondary: "Book a Table",
   },
 
   intro: {
